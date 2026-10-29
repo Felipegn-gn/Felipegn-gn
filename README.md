@@ -6,6 +6,14 @@ Estudante do 5º semestre de **Análise e Desenvolvimento de Sistemas (UNICV)**,
 
 ---
 
+## 🙋 Sobre mim
+
+Sou um profissional comprometido, comunicativo e flexível a mudanças. Acredito que o bom trabalho em equipe e o apoio aos colegas são essenciais para o sucesso dos projetos. Tenho facilidade para aprender o que for necessário para desempenhar com excelência qualquer função que me seja encaminhada, unindo sólidos conhecimentos técnicos à inteligência operacional e resolução de problemas.
+
+Tenho experiência em **desenvolvimento backend com APIs REST** e na **integração com o front-end**, conectando aplicações web e mobile às APIs que desenvolvo. Também tenho conhecimento em **banco de dados com MySQL** (modelagem e consultas SQL) e uso o **Postman** para testar e validar endpoints.
+
+---
+
 ## 🛠️ Tecnologias
 
 | Área | Stack |
@@ -36,10 +44,17 @@ Estudante do 5º semestre de **Análise e Desenvolvimento de Sistemas (UNICV)**,
 
 ## 💼 Experiência
 
+- **Setor de Agregados, G10** (atual)
+  - Emissão e controle das **ordens de abastecimento** dos caminhões de agregados
+  - Gestão da **documentação pessoal e de gerenciamento de risco**
+  - Direcionamento dos **débitos com postos de combustível** (filiais e parceiros) para o financeiro, com organização e controle do que foi ou não enviado para pagamento
+  - **Cadastro de novos veículos**, alterações de composição e de motorista
+  - Validação de notas fiscais para lançamento no sistema da G10
+  - **Controle de preços de combustíveis** dos parceiros
 - **Jovem Aprendiz, Almoxarifado, Cocamar** (ago/2024 – jul/2025)
 - **Atendimento e operações, Cachorrão da Dona Hélia** (mai/2021 – mai/2026)
 
-Experiências que me deram responsabilidade, organização e trabalho em equipe, qualidades que levo para o desenvolvimento de software.
+Experiências que me deram responsabilidade, organização, atenção a processos e dados, e trabalho em equipe, qualidades que levo para o desenvolvimento de software.
 
 ---
 
